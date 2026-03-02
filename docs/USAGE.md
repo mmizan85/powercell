@@ -182,4 +182,4 @@ sudo dpkg -r powercell
 
 ---
 
-*For more help, open an issue at https://github.com/yourusername/powercell*
+*For more help, open an issue at https://github.com/mmizan85/powercell*
