@@ -102,7 +102,7 @@
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/yourusername/powercell.git
+git clone https://github.com/mmizan85/powercell.git
 cd powercell
 
 # 2. Run
@@ -119,13 +119,13 @@ python PowerCell.py
 winget --version
 
 # Clone and run
-git clone https://github.com/yourusername/powercell.git
+git clone https://github.com/mmizan85/powercell.git
 cd powercell
 python PowerCell.py
 ```
 
 #### Option B — Windows Installer (.exe)
-Download the pre-built installer from [**Releases**](https://github.com/yourusername/powercell/releases):
+Download the pre-built installer from [**Releases**](https://github.com/mmizan85/powercell/releases):
 
 ```
 PowerCell-Setup-Windows.exe
@@ -135,7 +135,7 @@ Double-click to install, then launch **PowerCell** from the Start Menu or Deskto
 
 #### Option C — PowerShell one-liner
 ```powershell
-irm https://raw.githubusercontent.com/yourusername/powercell/main/installers/install.ps1 | iex
+irm https://raw.githubusercontent.com/mmizan85/powercell/main/installers/install.ps1 | iex
 ```
 
 ---
@@ -145,7 +145,7 @@ irm https://raw.githubusercontent.com/yourusername/powercell/main/installers/ins
 #### Option A — Run directly
 ```bash
 # Clone
-git clone https://github.com/yourusername/powercell.git
+git clone https://github.com/mmizan85/powercell.git
 cd powercell
 
 # Make executable
@@ -159,13 +159,13 @@ python3 PowerCell.py
 
 #### Option B — Shell one-liner installer
 ```bash
-curl -fsSL https://raw.githubusercontent.com/yourusername/powercell/main/installers/install.sh | bash
+curl -fsSL https://raw.githubusercontent.com/mmizan85/powercell/main/installers/install.sh | bash
 ```
 
 #### Option C — Debian/Ubuntu .deb package
 ```bash
 # Download from Releases page
-wget https://github.com/yourusername/powercell/releases/latest/download/powercell_2.0_amd64.deb
+wget https://github.com/mmizan85/powercell/releases/latest/download/powercell_2.0_amd64.deb
 sudo dpkg -i powercell_2.0_amd64.deb
 powercell
 ```
@@ -183,13 +183,13 @@ python3 PowerCell.py
 
 #### Option B — Homebrew (recommended)
 ```bash
-brew tap yourusername/powercell
+brew tap mmizan85/powercell
 brew install powercell
 powercell
 ```
 
 #### Option C — macOS installer (.pkg)
-Download from [**Releases**](https://github.com/yourusername/powercell/releases):
+Download from [**Releases**](https://github.com/mmizan85/powercell/releases):
 ```
 PowerCell-2.0.pkg
 ```
@@ -378,7 +378,7 @@ app("App Name",
 
 **Mohammad Mizanur Rahman**
 
-[![GitHub](https://img.shields.io/badge/GitHub-yourusername-181717?logo=github)](https://github.com/yourusername)
+[![GitHub](https://img.shields.io/badge/GitHub-yourusername-181717?logo=github)](https://github.com/mmizan85)
 
 *Passionate developer building tools that make everyday computing easier.*
 
